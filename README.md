@@ -13,4 +13,6 @@ This project is a simple calculator implemented using HTML and CSS. The calculat
 3. **Responsive Design**: The calculator is designed to be responsive, ensuring optimal display and usability across different devices and screen sizes. The layout adjusts dynamically to provide an optimal user experience on desktops, tablets, and mobile devices.
 
 4. **Stylish Interface**: The calculator interface is styled using CSS to enhance visual appeal and usability. Styling elements such as colors, fonts, and button designs contribute to a modern and attractive appearance.
+
+   
 ![68747470733a2f2f646c2e64726f70626f782e636f6d2f732f3777396b34713679366967386137642f706f7274726169742532306d6f64652e676966](https://github.com/oanamariasilivastru/Calculator/assets/161854553/16f29cd0-9af4-48bb-aac9-a197f0d0c532)
